@@ -3,6 +3,7 @@
 Welcome to my Github Profile! 
 
 🔭 I am a Web App & Mobile App Developer!
+
 ⚡ My technologies include:
 - Javascript (ReactJS/Express.js/Node.js)
 - Flutter (Dart) 
