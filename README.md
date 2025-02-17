@@ -8,7 +8,7 @@ Welcome to my Github Profile!
 - Javascript (ReactJS/Express.js/Node.js)
 - Flutter (Dart) 
 - Python
-- MongoDB/PostgreSQL
+- MongoDB/PostgreSQL/PHPMyAdmin
 - ARCore/ARKit
 
 📫 Reach me at omershakeel742@gmail.com
